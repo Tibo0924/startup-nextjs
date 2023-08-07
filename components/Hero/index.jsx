@@ -15,23 +15,23 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                Free and Open-Source Next.js Template for Startup & SaaS
-                </h1>
+                Transform Your Online Success with Data-Driven A/B Testing Strategies
+                </h1>                
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Startup is free Next.js template for startups and SaaS business websites comes with all the essential pages, components, and sections you need to launch a complete business website, built-with Next 13.x and Tailwind CSS.
+                With our precision A/B testing techniques, you can feel confident that every decision is backed by hard data and real-world results. Our approach is tailored to your unique business needs, ensuring that you receive personalized solutions that deliver measurable impact.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Link
+                  {/* <Link
                     href="https://nextjstemplates.com/templates/startup"
                     className="rounded-md bg-primary py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    Download Now
-                  </Link>
+                    Contact
+                  </Link> */}
                   <Link
                     href="https://github.com/NextJSTemplates/startup-nextjs"
                     className="rounded-md bg-black/20 py-4 px-8 text-base font-semibold text-black duration-300 ease-in-out hover:bg-black/30 dark:bg-white/20 dark:text-white dark:hover:bg-white/30"
                   >
-                    Star on GitHub
+                    Why A/B testing?
                   </Link>
                 </div>
               </div>
